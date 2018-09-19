@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Home Work</title>
+</head>
+<body>
+<div style="width:85%;height:600px;background:green;margin: 0 auto">
+   <div style="height:200px;background:blue;">
+      <div style="width:40%;height:200px;background:indigo;float:left"></div>
+      <div style="width:60%;height:200px;background:black;float:left"></div>
+   </div>
+    
+   <div style="height:200px;background:red;">
+      <div style="width:30%;height:200px;background:blue;float:left"> </div>
+      
+      <div style="width:40%;height:200px;background:white;float:left"><img src="https://avatars2.githubusercontent.com/u/43033489?s=460&v=4" height="200px" width="100%"/> </div>
+      
+      <div style="width:30%;height:200px;background:red;float:left"> </div>
+   
+   </div>
+   
+   <div style="height:200px;background:orange;"> </div>
+
+</div>
+</body>
+</html>
