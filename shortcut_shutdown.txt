@@ -1,9 +1,9 @@
 
 
 Force Shutdown with Time
-Shutdown –s –f –c "Goodbye in 3 minutes" –t 180
+shutdown –s –f –c "Goodbye in 3 minutes" –t 180
 
 
 
 Force Restart with Time
-Shutdown –r –f –c "Coming back in 10 seconds" –t 180
+shutdown –r –f –c "Coming back in 45 seconds" –t 45
