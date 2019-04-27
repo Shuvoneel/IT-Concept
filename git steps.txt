@@ -19,3 +19,7 @@ Step-4: git push origin master
 
 =======Suppose now at Home==============
 Step-1: git clone https://github.com/springapidev/IT-Concepts.git
+
+=======Configure============
+Step-1: git config --global user.name "Shuvoneel"
+Step-2: git config --global user.email "abc@gmail.com"
