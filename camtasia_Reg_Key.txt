@@ -1,6 +1,12 @@
+-> got to c:program files->TechSmith folder
+-> open the hidden files
+->edit the Reg.info file with following key:
 [RegistrationInfo] 
 ValidationData3=1 
 RegistrationKey=ZBCUV-4VDCZ-BNDCC-AHPK5-KAM4R 
 RegisteredTo=Sayonti
 ValidationData1=-&QG1qk,cjost," 
 ValidationData2=1
+
+-> make the file read only
+-> save, exit & enjoy
